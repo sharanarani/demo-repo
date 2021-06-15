@@ -1,0 +1,26 @@
+{
+"data":[
+          {
+            "userNameElement": "username",
+			"passwordElement": "password",
+			"loginElement": "//*[@id='formlogin']",
+		    "usernameValue": "sr078556",
+			"passwordValue": "Sharna@123",
+			"clientElement": "viewClients",
+		    "ComD": "CERN_COMD",
+	        "cert": "/html/body/div[5]/div[1]/div[2]/div[2]/div[2]/div[1]",
+	        "files":"//span[@id='fileViewerLink']",
+		    "startdateElement": "reportStart",
+	        "enddateElement": "reportEnd",
+	        "runElement": "//*[@id='runReport']",
+	        "tableElement": "//*[@id='modalBody']/div[1]/div[1]/table/tbody/tr/td[2]",
+	        "tableval": "//*[text()='Hansen_ins_20200101_20200630_1621425601.txt']",
+			"startDate": "01-1-2015 00:10:00",
+		    "endDate": "05-21-2021 00:00:00",
+			"backElement": "//*[@id='closeDrillDown']",
+            "popupElement":"/html",
+			"profileElement": "accountInfo",
+	        "logoutElement": "userLogout"
+	        }
+	    ]			  
+}
